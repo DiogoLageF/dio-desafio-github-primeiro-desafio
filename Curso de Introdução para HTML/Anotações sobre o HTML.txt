@@ -1,0 +1,7 @@
+Link para download do Bootstrap: https://getbootstrap.com/2.3.2/
+Link para download do Sublime Text: https://www.sublimetext.com/
+Link para download do Virtual Studio: https://code.visualstudio.com/
+
+
+Para quem está começando como desenvolvedor e está à procura de ferramentas que possam melhorar
+ a sua produtividade, acesse um dos links acima para baixar as ferramentas para desenvolvedores web!
